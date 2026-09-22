@@ -1,0 +1,6 @@
+{
+  "name": "Kronos Books",
+  "description": "A premium modern online bookstore featuring curated literature, bestselling non-fiction, and timeless stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
